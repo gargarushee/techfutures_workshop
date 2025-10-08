@@ -5,8 +5,7 @@ This repository contains materials for the TechFutures Workshop on Agent Buildin
 
 Setup API KEYS!!
 1. OPENAI_API_KEY: Obtain your API key from https://platform.openai.com/api-keys.
-2. TAVILY_SEARCH: Sign up at https://www.tavily.com/ to get API KEY access for web search.
-3. LANGSMITH_API_KEY: Obtain your API key for Langsmith tracing (optional but recommended for debugging).
+2. LANGSMITH_API_KEY: Obtain your API key for Langsmith tracing (optional but recommended for debugging).
 
 Environment Variables
 Set your API keys in the provided code cell:
@@ -15,7 +14,7 @@ Set your API keys in the provided code cell:
 
 Open this notebook in Google Colab.
 Go to "Runtime" -> "Run all" to execute all cells.
-Replace the placeholder values for OPENAI_API_KEY, TAVILY_API_KEY, and LANGSMITH_API_KEY in the "Set your API keys here" code cell with your actual keys.
+Replace the placeholder values for OPENAI_API_KEY and LANGSMITH_API_KEY in the "Set your API keys here" code cell with your actual keys.
 The notebook will then install the necessary packages, set the environment variables, define the agent system, and demonstrate example usage.
 
 Learn how to create AI agents that can collaborate to solve complex problems. The workshop includes:
