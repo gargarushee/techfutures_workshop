@@ -1,5 +1,8 @@
-TechFutures Workshop on Agent Building
+TechFutures Workshop on Agent Building 2025
 This repository contains materials for the TechFutures Workshop on Agent Building. It focuses on building multi-agent systems using the LangGraph library.
+
+Event link: https://events.techfutures.com/2025/agenda/session/1733836
+Slide deck: https://docs.google.com/presentation/d/1Io7YlYMVPc05ZWtk61sj00ZTVy2E5gyD/edit?usp=sharing&ouid=111830819194327605461&rtpof=true&sd=true
 
 **SETUP**
 
