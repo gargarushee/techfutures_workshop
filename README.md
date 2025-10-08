@@ -27,8 +27,8 @@ Learn how to create AI agents that can collaborate to solve complex problems. Th
 A sophisticated multi-agent system that generates comprehensive travel itineraries using a supervisor-based architecture.
 
 #### Components:
-- **Supervisor Node** - Intelligent router with conditional logic
+- **Supervisor Agent** - Intelligent router with conditional logic
 - **Generic Planner Agent** - Creates base itinerary
 - **Weather Planner Agent** - Adds weather recommendations
 - **Restaurant Planner Agent** - Suggests dining options
-- **Finalize Node** - Combines everything into polished output
+- **Synthesizer Agent** - Combines everything into polished output
